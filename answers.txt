@@ -1,0 +1,17 @@
+Times:
+
+10 simulations: 0m0.001s
+100 simulations: 0m0.009s
+1000 simulations: 0m0.085s
+10000 simulations: 0m0.830s
+100000 simulations: 0m8.295s
+1000000 simulations: 1m24.175s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?: The predictions may not necessarily prove incorrect as the number of simulations is increased,
+as the outcome of each simulation is determined by the ratings of the teams and the random nature of the simulate_game function.
+However, with a larger number of simulations, the results are likely to be more accurate and reliable in estimating the probability of each team winning the tournament.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?: ----
